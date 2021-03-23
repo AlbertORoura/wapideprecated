@@ -1,0 +1,44 @@
+{
+  "woman": [
+    {
+      "id": 1,
+      "name": "Alice Ball",
+      "field": "chemist",
+      "etnia": "African American",
+      "fact": "First female chemistry professor. At just 23 years old, Ball developed a groundbreaking treatment for leprosy",
+      "nationalithy": "American",
+      "birth": 1892,
+      "death": 1916
+    },
+    {
+      "id": 2,
+      "name": "Rosalind Franklin",
+      "field": "chemist and DNA researcher",
+      "etnia": "British",
+      "fact": "Franklin's research data was the first to demonstrate the basic dimensions of DNA strands and reveal the molecule was in two matching parts, running in opposite directions.",
+      "nationalithy": "British",
+      "birth": 1920,
+      "death": 1958
+    },
+    {
+      "id": 3,
+      "name": "Dorothy Hodgkin",
+      "field": "chemist on the cutting edge of X-ray crystallography",
+      "etnia": "British",
+      "fact": "Throughout her career, she made numerous breakthrough discoveries, including the atomic structure of penicillin, the structure of vitamin B12 and the structure of insulin.",
+      "nationalithy": "British",
+      "birth": 1910,
+      "death": 1994
+    },
+    {
+      "id": 4,
+      "name": "Grace Hopper",
+      "field": "computer programmer",
+      "etnia": "American",
+      "fact": "She became the first person to call computer problems 'bugs' in the system.",
+      "nationalithy": "American",
+      "birth": 1906,
+      "death": 1992
+    }
+  ]
+}
